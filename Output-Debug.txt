@@ -1,0 +1,14 @@
+﻿'Postal rates of a letter.exe' (Win32): Loaded 'C:\Users\User\source\repos\Postal rates of a letter\Debug\Postal rates of a letter.exe'. Symbols loaded.
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3ce4 has exited with code 0 (0x0).
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Postal rates of a letter.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0xc6c has exited with code 0 (0x0).
+The thread 0x280c has exited with code 0 (0x0).
+The program '[13728] Postal rates of a letter.exe' has exited with code 0 (0x0).
